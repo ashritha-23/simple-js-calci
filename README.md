@@ -7,9 +7,3 @@ A simple JavaScript Calculator made by [Ashritha marumudi]
 
 The Simple JavaScript Calculator is a straightforward web-based calculator built using JavaScript. It provides basic arithmetic operations to help users perform calculations quickly and efficiently.
 
-## Usage
-
-You can access the Simple JavaScript Calculator by visiting the following link: [Simple JavaScript Calculator](https://ashritha-23.github.io/Simple-JavaScript-Calculator)
-
-Simply enter your mathematical expressions and use the calculator's features to perform calculations with ease.
-
